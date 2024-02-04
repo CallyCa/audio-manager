@@ -23,7 +23,7 @@ The project is organized into the following components:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/audio-manager.git
+git clone https://github.com/callyca/audio-manager.git
 cd audio-manager
 ```
 
